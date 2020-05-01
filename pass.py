@@ -25,7 +25,7 @@ def Random():
 
 
 #=====================================MAIN======================================
-root = Tk()
+root = Tk(10)
 root.title("Sourcecodester")
 width = 400
 height = 200
